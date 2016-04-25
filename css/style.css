@@ -1,5 +1,7 @@
-svg {
-  font: 10px sans-serif;
+pcpSvg {
+  position: fixed;
+  bottom: 100;
+  left: 190;
 }
 
 .background path {
